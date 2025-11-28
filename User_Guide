@@ -1,0 +1,162 @@
+# S1Box Cloud – User Guide
+
+Welcome to **S1Box Cloud**, your fully managed Honeypot-as-a-Service platform.  
+This guide is designed for all users, regardless of technical background, and explains how to use S1Box effectively.
+
+---
+
+## 1. What S1Box Cloud Is
+
+S1Box Cloud deploys **decoy systems** (honeypots) that attract and record malicious activity.  
+They act like “bait servers” to help you see attacks before they reach your real systems.
+
+You get:
+
+- Real-time attack visibility  
+- Activity logs  
+- Threat intelligence (Pro plan)  
+- Zero setup — everything runs on S1Box infrastructure  
+
+There is no installation, configuration, or server maintenance required.
+
+---
+
+## 2. How Access Works
+
+S1Box uses a **simple token-based system**:
+
+1. You select a subscription plan  
+2. You complete the checkout using Stripe  
+3. After payment, you receive a **dashboard access token**  
+4. You paste this token into the login screen  
+5. Your dashboard opens — no passwords, no accounts, no forms
+
+If your token expires (90 days), you can ask us to generate a new one.
+
+---
+
+## 3. Subscription Plans
+
+### **Basic — $34/month**
+- 1 active honeypot  
+- 30-day log history  
+- Country-level info on attacks  
+- Real-time activity view  
+- Email alerts  
+
+### **Pro — $69/month**
+- 3 active honeypots  
+- 90-day log history  
+- Full threat intelligence enrichment  
+- Priority support  
+- More trap types (SSH, HTTP, SQL, others in future)
+
+Upgrades and downgrades are possible anytime.
+
+---
+
+## 4. Your Dashboard
+
+Inside the dashboard, you can:
+
+- View all attacks in real time  
+- See attacker IP, country, behavior, and risk information  
+- Switch between your traps  
+- Start/stop traps (depending on your plan)  
+- Review the last 30–90 days of data  
+- Export logs (if available)
+
+The dashboard is designed to be simple, readable, and fast.
+
+---
+
+## 5. What Data You Will See
+
+Honeypots collect attacker-side data only.  
+This includes:
+
+- Attacker IP address  
+- Attempted usernames/passwords  
+- Connection attempts  
+- Commands they try to run  
+- Time and frequency of attacks  
+- Enrichment information (Pro)
+
+**Your own personal information is not tracked.**
+
+---
+
+## 6. Safety & Privacy
+
+S1Box is designed with **privacy-first principles**:
+
+- No passwords to remember  
+- No personal profile or account data  
+- Only your email is stored (for subscription and support)  
+- Tokens are always securely hashed  
+- Payment data stays with Stripe  
+
+Your honeypot logs belong to **you**, not us.
+
+---
+
+## 7. Cancellation & Billing
+
+You can cancel at any time using:
+
+- The Stripe Customer Portal  
+- Or by contacting support
+
+After cancellation:
+
+- Your traps are stopped  
+- You retain dashboard access until token expiration  
+- Logs are stored for the planned retention period (30 or 90 days) and then deleted automatically
+
+There are no hidden fees.
+
+---
+
+## 8. Support
+
+We're here to help.
+
+Email us at: **hello@synth1ca.eu**
+
+Pro plan users receive **priority support**.
+
+---
+
+## 9. What S1Box Is NOT
+
+S1Box is not:
+
+- A firewall  
+- An antivirus  
+- A full intrusion detection system  
+- A substitute for cybersecurity best practices  
+
+It is a **detection and early-warning tool**.
+
+---
+
+## 10. Staying Informed
+
+We update S1Box regularly.  
+Changes to pricing, features, or legal documents will always be reflected in the public GitHub repository and/or via email.
+
+---
+
+## 11. About Synth1ca
+
+**Synth1ca** builds practical, lightweight cybersecurity tools with a focus on privacy, automation, and simplicity.
+
+S1Box Cloud is part of the **Synth1ca Tactical Tools (ST²)** ecosystem.
+
+Website: **https://s1box.cloud**  
+Contact: **hello@synth1ca.eu**
+
+---
+
+Thank you for using S1Box Cloud.
+Stay secure. Stay ahead.

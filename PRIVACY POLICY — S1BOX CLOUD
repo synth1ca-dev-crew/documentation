@@ -1,0 +1,271 @@
+ **PRIVACY POLICY — S1BOX CLOUD**
+
+(Last Updated: November 27, 2025)
+
+---
+
+## 1. Introduction
+
+This Privacy Policy explains how **Synth1ca** (“we”, “us”, “our”) collects, uses, and protects information related to the **S1Box Cloud** platform.
+
+We follow U.S. (including CCPA-compatible disclosures) and Canadian (PIPEDA) privacy standards.
+
+We practice **data minimization**.
+
+---
+
+## 2. Information We Collect
+
+### 2.1 Email Address
+
+Collected during Stripe checkout.  
+Used for:
+
+- Subscription management
+    
+- Dashboard token delivery
+    
+- Support communication
+    
+
+We do NOT send marketing emails unless the user opts in.
+
+### 2.2 Authentication Tokens
+
+- Tokens are generated for dashboard access
+    
+- Stored **hashed** (SHA256)
+    
+- Never stored in plaintext
+    
+- Expire after 90 days
+    
+
+### 2.3 Honeypot Attack Logs
+
+These are technical logs from attacker interactions:
+
+- Attacker IP
+    
+- Timestamp
+    
+- Event message
+    
+- Raw log lines
+    
+- Attempted username/password (if applicable)
+    
+- Command attempts (if applicable)
+    
+- Port, protocol, trap type
+    
+
+These logs are your data.
+
+### 2.4 Enrichment Data (Pro Plan Only)
+
+Includes:
+
+- GeoIP
+    
+- Threat score
+    
+- TOR exit node status
+    
+- Spamhaus listing
+    
+- CISA KEV match
+    
+- Risk/confidence levels
+    
+
+These require sending attacker IPs to third-party providers.
+
+### 2.5 Operational & System Data
+
+We collect operational telemetry:
+
+- Hub/server heartbeat
+    
+- CPU/memory usage
+    
+- Error logs
+    
+- Provisioning job events
+    
+
+This is required to maintain the platform.
+
+---
+
+## 3. What We Do NOT Collect
+
+- Personal names
+    
+- User physical addresses
+    
+- Payment card data
+    
+- Billing addresses
+    
+- Passwords
+    
+- User browsing data
+    
+- User IP addresses (except security logging if aggressive rate abuse occurs)
+    
+
+Payment data is handled entirely by **Stripe**.
+
+---
+
+## 4. How We Use Data
+
+We use data strictly to:
+
+- Provide and maintain the S1Box Service
+    
+- Provision honeypots
+    
+- Display logs in the dashboard
+    
+- Enrich data (Pro plan)
+    
+- Improve platform stability
+    
+- Communicate with users (operational messages only)
+    
+- Maintain security
+    
+
+We do NOT:
+
+- Sell user data
+    
+- Share user data for advertising
+    
+- Build user profiles
+    
+- Track users across websites
+    
+
+---
+
+## 5. Data Sharing
+
+We only share data with:
+
+- Stripe (your email during checkout)
+    
+- Threat intelligence providers (attacker IPs for enrichment)
+    
+- Hosting providers (to run S1Box infrastructure)
+    
+- Law enforcement if legally required
+    
+- Contractors under NDA who maintain infrastructure (rare)
+    
+
+We never sell data.
+
+---
+
+## 6. Data Retention
+
+- Basic: logs retained **30 days**
+    
+- Pro: logs retained **90 days**
+    
+- After cancellation: same retention applies
+    
+- After retention expires: permanent deletion
+    
+
+Email and subscription metadata may be retained for legal/accounting compliance.
+
+---
+
+## 7. Data Security
+
+We follow industry best practices:
+
+- TLS/HTTPS everywhere
+    
+- Token hashing (SHA256)
+    
+- Firewalling
+    
+- Access control and audit logs
+    
+- Encrypted database (if enabled in deployment)
+    
+- Least privilege access for internal systems
+    
+- Isolation between traps and core infrastructure
+    
+
+No system is perfectly secure, but we take reasonable technical and organizational measures.
+
+---
+
+## 8. User Rights
+
+Depending on your region (U.S. states, PIPEDA in Canada), you may:
+
+- Access your data
+    
+- Request deletion
+    
+- Request correction
+    
+- Request export (if supported)
+    
+- Withdraw consent (if applicable)
+    
+
+Contact us at **[hello@synth1ca.eu](mailto:hello@synth1ca.eu)** for requests.
+
+We may require proof you control the subscription email.
+
+---
+
+## 9. Children’s Privacy
+
+S1Box Cloud is not intended for anyone under **18 years old**.
+
+We do not knowingly collect data from minors.
+
+---
+
+## 10. International Transfers
+
+Data may be processed in multiple countries (depending on hub locations and cloud providers).  
+Your use of the Service constitutes consent to such transfers.
+
+---
+
+## 11. Data Breach Notification
+
+If a data breach occurs:
+
+- We will notify affected users
+    
+- We will notify authorities when required
+    
+- We will take corrective action to address the issue
+    
+
+---
+
+## 12. Changes to This Policy
+
+We may update this Privacy Policy.  
+Material changes will be communicated via email or dashboard.
+
+---
+
+## 13. Contact
+
+Synth1ca  
+Email: **[hello@synth1ca.eu](mailto:hello@synth1ca.eu)**  
+Website: **[https://s1box.cloud](https://s1box.cloud)**

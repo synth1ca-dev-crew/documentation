@@ -1,72 +1,103 @@
-# S1Box Cloud – Legal Documents Repository
+# S1Box Cloud – Legal & Documentation Repository
 
-This repository contains the official legal, compliance, and user-facing documentation for **S1Box Cloud**, a privacy-first Honeypot-as-a-Service platform developed and operated by **Synth1ca**.
+This repository contains the official legal and user-facing documentation for:
 
-All documents stored here are publicly accessible and serve as the **authoritative source** for S1Box Cloud policies, terms, and user guidance.
+- **S1Box Cloud** – a Honeypot-as-a-Service platform operated by Synth1ca  
+- **Synth1ca Tactical Tools (ST²)** – a family of lightweight security assessment services and the Mini Honeypot Kit
 
----
-
-##  Included Documents
-
-### 1. **Terms of Service**
-**File:** `TERMS_OF_SERVICE.md`  
-Defines the rules and conditions for using S1Box Cloud.  
-Covers:
-- subscription model and billing  
-- token-based authentication  
-- acceptable use & prohibitions  
-- service limitations  
-- warranties & liability  
-- governing law and dispute resolution  
+All documents in this repository are publicly available and serve as the authoritative source for S1Box Cloud and ST² policies, terms, and user guidance.
 
 ---
 
-### 2. **Privacy Policy**
-**File:** `PRIVACY_POLICY.md`  
-Explains how S1Box Cloud processes, stores, and protects customer data.  
-Includes:
-- data minimization practices  
-- what data is collected (and what is not)  
-- retention periods  
-- third-party processors  
-- international data transfers  
-- user rights and contact channels  
+## Included Documents
+
+### 1. TERMS OF SERVICE — S1BOX CLOUD
+
+**File:** `TERMS OF SERVICE — S1BOX CLOUD`  
+
+Defines the rules, conditions, and acceptable use for S1Box Cloud, including:
+
+- subscription and token-based access
+- scope of service and limitations
+- acceptable use and abuse handling
+- disclaimers, warranties, and liability
+- governing law and dispute resolution
 
 ---
 
-### 3. **User Documentation**
-**File:** `DOCUMENTATION.md`  
-A simple, non-technical guide for S1Box Cloud users.  
-Describes:
-- how the service works  
-- Basic vs Pro dashboard features  
-- how token-based access is delivered  
-- trap deployment model (Core ↔ Satellite)  
-- data flow & log visibility  
+### 2. PRIVACY POLICY — S1BOX CLOUD
 
-Designed for customers, MSPs, SOC teams, and partners who need a clear overview without diving into technical internals.
+**File:** `PRIVACY POLICY — S1BOX CLOUD`  
 
----
+Explains how S1Box Cloud processes and protects user data, with focus on:
 
-### 4. **Legal Specification (Internal Reference)**
-**File:** `APP_SPECIFICATION_FOR_LEGAL.md`  
-A structured, high-level system specification used internally to generate and validate legal documents.
-
-Includes:
-- architectural overview  
-- data flow summary  
-- token lifecycle  
-- logging behavior and retention  
-- communication between Core / Satellite nodes  
-
-This document improves transparency for auditors, compliance teams, reviewers, and business partners.
+- data minimization and privacy-first design
+- what data is collected (and what is never collected)
+- retention windows and log handling
+- use of third-party processors (e.g. payment, infra)
+- international data transfers and user rights
 
 ---
 
-##  About Synth1ca
+### 3. User_Guide (S1Box Cloud User Documentation)
 
-**Synth1ca** is a cybersecurity-focused software studio building privacy-first, operator-friendly security tooling.  
-**S1Box Cloud** is part of the broader **Synth1ca Tactical Tools (ST²)** ecosystem.
+**File:** `User_Guide`  
+
+A non-technical guide for S1Box Cloud users, covering:
+
+- how the service works end-to-end
+- how access tokens are delivered and used
+- Basic vs Pro dashboard features
+- trap deployment model (Core / Satellite)
+- what data is visible in the UI
+
+This document is intended for customers, MSPs, SOC teams, and partners who need a clear overview without reading the full legal texts.
+
+---
+
+### 4. Synth1ca Tactical Tools – Privacy Policy
+
+**File:** `Synth1ca Tactical Tools – Privacy Policy`  
+
+Privacy policy for the **Synth1ca Tactical Tools (ST²)** product line, including:
+
+- External Exposure Snapshot  
+- Mini Pentest External LITE  
+- Hardening Quick Review  
+- Synth1ca Mini Honeypot Kit (digital download)
+
+It describes:
+
+- what customer data is processed for each service
+- how assessment data and reports are handled
+- retention periods for working files and outputs
+- third-party processors (payments, email, ticketing)
+- rights for customers in the US, Canada and EU
+
+---
+
+### 5. Synth1ca Tactical Tools – Terms of Service & Delivery Policy
+
+**File:** `Synth1ca Tactical Tools – Terms of Service &Delivery Policy`  
+
+Terms of Service and delivery policy for ST², defining:
+
+- legal use requirements (authorization for tested assets)
+- scope and limitations of Snapshot, Mini Pentest, Hardening
+- conditions for the Mini Honeypot Kit digital download
+- target delivery times and timezone-related handling
+- refund rules and liability limitations
+
+These terms apply specifically to ST² services sold via Stripe Payment Links and fulfilled by operators using ST² internal tools.
+
+---
+
+## About Synth1ca
+
+**Synth1ca** is a cybersecurity-focused software studio building privacy-first, high-performance security tools.
+
+- **S1Box Cloud** – managed honeypot-as-a-service  
+- **Synth1ca Tactical Tools (ST²)** – on-demand security assessments and tools
 
 - Website: https://s1box.cloud  
 - Main site: https://synth1ca.eu  
@@ -74,37 +105,38 @@ This document improves transparency for auditors, compliance teams, reviewers, a
 
 ---
 
-##  License
+## License
 
-All legal documents in this repository are **© Synth1ca**.  
-Public viewing, referencing, and linking are permitted.
+All legal and documentation files in this repository are **© Synth1ca**.
 
-**Modification, redistribution, or derivative commercial use requires prior written permission** from Synth1ca.
+Permission is granted to:
 
----
+- view these documents
+- reference or link to them in external materials
 
-##  Updates & Versioning
-
-Legal documents may change over time as S1Box Cloud evolves.  
-Each document contains a **“Last Updated”** timestamp indicating the most recent official revision.
-
-To stay informed about changes:
-- Watch this repository  
-- Follow update logs in the hosting platform  
+Modification or redistribution for derivative commercial use requires prior written permission.
 
 ---
 
-##  Contributions
+## Updates
 
-Legal content is not open to public contribution for security and compliance reasons.
+Legal documents and user-facing documentation may change over time.
 
-If you notice an issue, inconsistency, or have a legal-compliance question:
-- Open an Issue in this repository  
-- Or email: **hello@synth1ca.eu**
+The **“Last Updated”** timestamp inside each document represents the most current version.  
+This repository is the canonical reference for the latest published version.
 
-We appreciate all responsible feedback.
+To stay informed about changes, you may watch or follow this repository.
 
 ---
 
-Thank you for using **S1Box Cloud**.  
-Stay secure. Stay ahead.  
+## Contributions
+
+Legal documents are **not** open for community contribution.
+
+If you detect inaccuracies, have compliance questions, or need clarification:
+
+- open an Issue in this repository, or  
+- contact us at **hello@synth1ca.eu**
+
+Thank you for using S1Box Cloud and Synth1ca Tactical Tools.  
+Stay secure. Stay ahead.

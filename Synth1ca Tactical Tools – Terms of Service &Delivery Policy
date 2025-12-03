@@ -1,0 +1,146 @@
+# **Synth1ca Tactical Tools – Terms of Service **
+
+**Last Updated:** February 2025
+
+---
+
+## 1. Overview
+
+By purchasing any Synth1ca Tactical Tools (“ST²”) product, you agree to these Terms.
+ST² includes:
+
+* External Exposure Snapshot
+* Mini Pentest External LITE
+* Hardening Quick Review
+* Synth1ca Mini Honeypot Kit (Digital Download)
+
+ST² is a **manual operator-executed** service, not automated SaaS.
+
+---
+
+## 2. Legal Use Only (Important)
+
+You represent that:
+
+1. You own the domain or infrastructure being tested **OR**
+2. You are authorized by the owner to perform testing.
+
+We reserve the right to request verification (DNS/HTTP token).
+
+We do **not** conduct unauthorized testing and do not support illegal activities.
+
+---
+
+## 3. Delivery Timeframes
+
+### **Snapshot**
+
+Standard delivery target: ~30 minutes
+
+### **Hardening Quick Review**
+
+Delivery target: ~1 hour
+
+### **Mini Pentest External LITE**
+
+Delivery target: Same day (based on workload and time zone)
+
+### **Mini Honeypot Kit**
+
+Instant digital download / email delivery
+
+> These delivery times are **targets**, not guarantees.
+> Delivery may be adjusted based on time zone, workload, or holidays.
+
+---
+
+## 4. Refund Policy
+
+To keep things fair:
+
+### **Services performed manually (Snapshot / Pentest / Hardening):**
+
+* Refunds available **before work begins**
+* Once work has started, the service becomes non-refundable
+
+### **Digital download (Mini Honeypot Kit):**
+
+* Non-refundable once download link has been sent
+
+---
+
+## 5. Responsibility and Liability
+
+* All findings are based on best-effort, operator-level testing
+* No guarantee is made that all vulnerabilities will be found
+* Synth1ca is not liable for damages resulting from misuse or misinterpretation of reports
+* Honeypot Kit is provided “as is” for lab use
+* You are responsible for securing your own infrastructure
+
+Liability is limited to the amount paid for the service.
+
+---
+
+## 6. Customer Obligations
+
+You agree to:
+
+* Provide accurate domain information
+* Complete authorization steps
+* Not use ST² for illegal or harmful purposes
+* Secure your environment when deploying the Mini Honeypot Kit
+
+---
+
+## 7. Intellectual Property
+
+All generated reports, PDF templates, code, and documentation belong to Synth1ca.
+You receive a license to use them internally.
+
+Resale or redistribution is prohibited without permission.
+
+---
+
+## 8. Governing Law
+
+These Terms follow **Delaware, USA** commercial norms (industry standard for US-facing SaaS).
+For Canada, general commercial code applies.
+
+---
+
+# **Delivery Policy **
+
+
+---
+
+## 1. How We Deliver Services
+
+ST² services are delivered manually by an operator.
+Delivery times are **targets**, not guarantees:
+
+| Product           | Target Delivery | Notes                            |
+| ----------------- | --------------- | -------------------------------- |
+| Snapshot          | ~30 minutes     | Depends on operator availability |
+| Hardening         | ~1 hour         | Same as above                    |
+| Mini Pentest LITE | Same day        | Usually within a few hours       |
+| Mini Honeypot Kit | Instant         | Digital download                 |
+
+---
+
+## 2. Time Zone Policy
+
+We operate in CET/CEST (Europe).
+US & Canadian orders are processed **in their local daytime hours whenever possible**, but:
+
+* Orders placed outside operator working hours queue for next availability
+* Priority is given to orders placed 9:00–23:00 CET
+* Emergency/ASAP delivery can be arranged manually
+
+---
+
+## 3. Honest Expectations 
+
+> “ST² aims to deliver all services as fast as possible.
+> All delivery times are targets based on typical workload.
+> Because services are performed by human operators, slight delays may occur.
+> You will always receive confirmation when your order begins processing.”

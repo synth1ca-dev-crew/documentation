@@ -1,0 +1,128 @@
+
+# **Synth1ca Tactical Tools – Privacy Policy **
+
+**Last Updated:** February 2025
+**Applies to:** st2.synth1ca.eu and all ST² products (Snapshot, Mini Pentest External LITE, Hardening Quick Review, Mini Honeypot Kit)
+
+---
+
+## 1. Who We Are
+
+Synth1ca (“we”, “us”, “our”) is a cybersecurity and security-research company based in the EU and operating internationally.
+We provide lightweight, operator-executed security assessment tools sold as digital services and downloads.
+
+For privacy questions:
+**[support@synth1ca.eu](mailto:support@synth1ca.eu)**
+
+---
+
+## 2. What Data We Collect
+
+We intentionally collect **as little personal data as possible**.
+We do **not** create user accounts and we do **not** track browsing behavior.
+
+We collect:
+
+### **2.1. Information you provide during purchase**
+
+(through Stripe Payment Links)
+
+* Email address
+* Country (billing metadata)
+* Payment confirmation and product purchased
+* Optional business information for invoicing
+
+### **2.2. Operational data required to deliver services**
+
+Depending on purchased product:
+
+* Domain name(s) you provide
+* Public technical data discovered during Snapshot / Hardening
+* Authorization verification data (DNS/HTTP token)
+
+### **2.3. File submissions (if applicable)**
+
+If you send any logs or files voluntarily, they are processed only for the task and deleted afterwards.
+
+### **We do *not* collect:**
+
+* Passwords
+* Account data (we do not use accounts)
+* Sensitive personal information
+* Tracking identifiers or advertising IDs
+* Behavioral analytics
+* Cookies except those required by Stripe Checkout
+
+---
+
+## 3. How We Use Your Data
+
+We use your data only for:
+
+1. Processing purchases (via Stripe)
+2. Delivering ordered services
+3. Sending reports and notifications
+4. Legal compliance (tax records required by Stripe)
+
+We **never** sell, rent, or share data with third parties except:
+
+* **Stripe** (payments)
+* **Plane.dev** (ticket creation, optional, no sensitive data)
+* **Email provider** used to deliver results
+
+We do not use third-party analytics (Google Analytics, Meta Pixels, etc).
+
+---
+
+## 4. Data Retention
+
+* Purchase metadata (billing): kept for accounting laws (5–7 years depending on region)
+* Working files / scan data: **deleted after 30 days**
+* Email communications: up to 12 months
+* Authorization tokens: deleted immediately after job completion
+
+For digital downloads (Honeypot Kit) we retain **no data** after sending the download link.
+
+---
+
+## 5. International Data Transfers
+
+Customers from the US and Canada acknowledge that processing may occur in the EU.
+We use standard contractual measures and reputable providers (Stripe, Plane, email vendors).
+
+---
+
+## 6. Your Rights (US/CA)
+
+Depending on region (California, Canada):
+
+* Request deletion of working data
+* Request access to what info we hold
+* Request correction
+* Opt-out of optional communications
+* No discrimination for using any privacy rights
+
+Contact: **[support@synth1ca.eu](mailto:support@synth1ca.eu)**
+
+---
+
+## 7. Children’s Privacy
+
+We do not target or serve individuals under 18.
+
+---
+
+## 8. Security Measures
+
+* No stored customer accounts or passwords
+* Encrypted communication (TLS)
+* Temporary storage of working files
+* Strict operator isolation
+* Minimal-data philosophy by default
+
+---
+
+## 9. Changes to This Policy
+
+We will update this policy as needed.
+Continued use of ST² means acceptance of the latest version.
